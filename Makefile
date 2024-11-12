@@ -1,2 +1,0 @@
-kow:
-	clang 
